@@ -17,15 +17,15 @@ public class diasDaSemana {
                 System.out.println("O dia da semana escolhido foi Segunda");
                 break;
             case 3:
-            System.out.println("O dia da semana escolhido foi Terça");
+                System.out.println("O dia da semana escolhido foi Terça");
                 break;
-            case  4:
+            case 4:
                 System.out.println("O dia da semana escolhido foi Quarta");
                 break;
             case 5:
                 System.out.println("O dia da semana escolhido foi quinta");
                 break;
-            case  6:
+            case 6:
                 System.out.println("O dia da semana escolhido foi Sexta");
                 break;
             case 7:
@@ -35,6 +35,6 @@ public class diasDaSemana {
                 System.out.println("Opção inválida, digite apenas os números de 1 a 7. ");
 
         }
-            }
+    }
 
 }

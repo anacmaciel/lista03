@@ -33,8 +33,8 @@ public class SalarioReajuste {
         }
         if (salarioAtual >= 1500.00) {
             double salarioReajuste5 = (salarioAtual * 0.05);
-        double novoSalario = (salarioAtual + salarioReajuste5);
-        System.out.println("O reajuste do seu salário foi de 5%, seu salário antes do reajuste era de: " + salarioAtual + ", o aumento foi de: " + salarioReajuste5 + " e o novo salário é de: " + novoSalario);
-    }
+            double novoSalario = (salarioAtual + salarioReajuste5);
+            System.out.println("O reajuste do seu salário foi de 5%, seu salário antes do reajuste era de: " + salarioAtual + ", o aumento foi de: " + salarioReajuste5 + " e o novo salário é de: " + novoSalario);
+        }
     }
 }

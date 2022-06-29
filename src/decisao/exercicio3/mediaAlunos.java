@@ -12,7 +12,7 @@ public class mediaAlunos {
         double nota1 = input.nextDouble();
         System.out.println("Digite a segunda nota");
         double nota2 = input.nextDouble();
-input.close();
+        input.close();
 
         double mediaDasNotas = (nota1 + nota2) / 2;
 
@@ -20,12 +20,10 @@ input.close();
 
         System.out.println();
 
-        if(mediaDasNotas == 10) {
-    System.out.println("Aprovado com distinção!");
+        if (mediaDasNotas == 10) {
+            System.out.println("Aprovado com distinção!");
 
-        }
-
-        else if (mediaDasNotas >= 7) {
+        } else if (mediaDasNotas >= 7) {
             System.out.println("Aprovado!");
 
         } else {
