@@ -1,5 +1,6 @@
 package repeticao.exercicio3;
 
+//somente para estudo e fixação de conteúdo
 import java.util.Scanner;
 import java.util.List;
 
