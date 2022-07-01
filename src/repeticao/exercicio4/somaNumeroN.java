@@ -2,7 +2,7 @@ package repeticao.exercicio4;
 
 import java.util.Scanner;
 
-public class somaNumeroN {
+public class SomaNumeroN {
 
     public static void main(String[] args) {
 
@@ -25,11 +25,8 @@ public class somaNumeroN {
 
 
             System.out.println("A soma dos números é: " + somaNumeros);
-        }
-
-
+        } else {
+System.out.println("Número inválido, digite apenas números positivos.");
+}
     }
 }
-
-
-

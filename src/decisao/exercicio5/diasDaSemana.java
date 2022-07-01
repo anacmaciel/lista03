@@ -2,7 +2,7 @@ package decisao.exercicio5;
 
 import java.util.Scanner;
 
-public class diasDaSemana {
+public class DiasDaSemana {
 
     public static void main(String[] args) {
         System.out.println("Digite o dia da semana escolhido");

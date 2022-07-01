@@ -2,7 +2,7 @@ package decisao.exercicio3;
 
 import java.util.Scanner;
 
-public class mediaAlunos {
+public class MediaAlunos {
 
     public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package repeticao.exercicio1;
 
-public class numerosAteCem {
+public class NumerosAteCem {
 
     public static void main(String[] args) {
 
