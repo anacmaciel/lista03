@@ -1,6 +1,6 @@
 package repeticao.exercicio5;
 
-public class inteiro {
+public class Inteiro {
 
     public static void main(String[] args) {
 
